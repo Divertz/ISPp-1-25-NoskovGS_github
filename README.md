@@ -11,3 +11,13 @@
 * git diff ...
 * git reset ...
 * git reset ... --hard
+*Джейсен Стетхем*
+>Если жизнь – это вызов, я перезвоню
+Программа `«Hello, World!»` на языке C:
+```
+#include <stdio.h>
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
