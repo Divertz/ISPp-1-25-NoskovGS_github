@@ -1,0 +1,6 @@
+C:\Users\stud7korp2\Desktop\День 5\ClassLibraryNoskov\bin\Debug\ClassLibraryNoskov.dll
+C:\Users\stud7korp2\Desktop\День 5\ClassLibraryNoskov\bin\Debug\ClassLibraryNoskov.pdb
+C:\Users\stud7korp2\Desktop\День 5\ClassLibraryNoskov\obj\Debug\ClassLibraryNoskov.csproj.AssemblyReference.cache
+C:\Users\stud7korp2\Desktop\День 5\ClassLibraryNoskov\obj\Debug\ClassLibraryNoskov.csproj.CoreCompileInputs.cache
+C:\Users\stud7korp2\Desktop\День 5\ClassLibraryNoskov\obj\Debug\ClassLibraryNoskov.dll
+C:\Users\stud7korp2\Desktop\День 5\ClassLibraryNoskov\obj\Debug\ClassLibraryNoskov.pdb

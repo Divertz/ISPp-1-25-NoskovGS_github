@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryNoskov", "ClassLibraryNoskov.csproj", "{EF312EC1-658B-48C4-9C5D-BA0E818E7F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnit_Noskov", "..\TestUnit_Noskov\TestUnit_Noskov.csproj", "{CC2FEDC0-5886-47B5-8E8C-FF1B9F427280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF312EC1-658B-48C4-9C5D-BA0E818E7F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF312EC1-658B-48C4-9C5D-BA0E818E7F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF312EC1-658B-48C4-9C5D-BA0E818E7F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF312EC1-658B-48C4-9C5D-BA0E818E7F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2FEDC0-5886-47B5-8E8C-FF1B9F427280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2FEDC0-5886-47B5-8E8C-FF1B9F427280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2FEDC0-5886-47B5-8E8C-FF1B9F427280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2FEDC0-5886-47B5-8E8C-FF1B9F427280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DB4D63-1163-429D-B250-C1F474FEE83D}
+	EndGlobalSection
+EndGlobal
